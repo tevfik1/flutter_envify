@@ -1,6 +1,6 @@
 name: flutter_envify
 description: A better way to handle environment variables using `.env` file.
-version: 3.0.0
+version: 3.0.1
 homepage: https://github.com/tevfik1/flutter_envify
 
 environment:

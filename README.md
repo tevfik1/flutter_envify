@@ -1,5 +1,6 @@
-# Envify
+# Flutter Envify
 
+This package is based on [envify](https://pub.dev/packages/envify).
 A **better** and probably **safer** way to handle environment variables in Flutter.
 
 > To read _why this is better/safer_ in details, skip to the [motivation](#motivation) section.
@@ -56,10 +57,10 @@ Add both `envify` and `envify_generator` as dependencies,
 
 ```yaml
 dependencies:
-  envify: any
+  flutter_envify: any
 
 dev_dependencies:
-  envify_generator: any
+  flutter_envify_generator: any
   build_runner: any
 ```
 

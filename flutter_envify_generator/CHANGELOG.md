@@ -1,3 +1,7 @@
+## 3.0.1
+
+- Update readme
+
 ## 3.0.0
 
 - Support Flutter 3
