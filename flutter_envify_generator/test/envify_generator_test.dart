@@ -1,5 +1,5 @@
 @TestOn('vm')
-import 'package:envify_generator/envify_generator.dart';
+import 'package:flutter_envify_generator/flutter_envify_generator.dart';
 import 'package:path/path.dart' as path;
 import 'package:source_gen_test/source_gen_test.dart';
 import 'package:test/test.dart';

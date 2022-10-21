@@ -1,3 +1,7 @@
+## 3.0.0
+
+- Support Flutter 3
+
 ## 2.0.2
 
 - Remove `kReleaseMode` example from documentation

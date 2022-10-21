@@ -1,16 +1,16 @@
 targets:
   $default:
     builders:
-      envify_generator|envify:
+      flutter_envify_generator|flutter_envify:
         enabled: True
 
 builders:
-  envify:
-    import: "package:envify_generator/builder.dart"
+  flutter_envify:
+    import: "package:flutter_envify_generator/builder.dart"
     builder_factories: ["envifyBuilder"]
     build_extensions:
       .dart:
-        - envify.g.dart
+        - flutter_envify.g.dart
     build_to: cache
     auto_apply: dependents
     applies_builders: ["source_gen|combining_builder"]

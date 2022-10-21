@@ -1,6 +1,6 @@
 import 'package:analyzer/dart/element/element.dart';
 import 'package:build/build.dart';
-import 'package:envify/envify.dart';
+import 'package:flutter_envify/flutter_envify.dart';
 import 'package:source_gen/source_gen.dart';
 
 import '../helpers.dart';

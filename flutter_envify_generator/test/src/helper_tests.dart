@@ -1,4 +1,4 @@
-import 'package:envify_generator/helpers.dart';
+import 'package:flutter_envify_generator/helpers.dart';
 import 'package:test/test.dart';
 
 void main() {

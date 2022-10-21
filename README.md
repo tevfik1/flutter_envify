@@ -77,7 +77,7 @@ Define API for generation at `lib/env/env.dart` (you can use any file at any pat
 ```dart
 // env/env.dart
 
-import 'package:envify/envify.dart';
+import 'package:flutter_envify/flutter_envify.dart';
 part 'env.g.dart';
 
 @Envify()

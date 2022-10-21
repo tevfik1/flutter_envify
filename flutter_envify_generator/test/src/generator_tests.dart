@@ -1,4 +1,4 @@
-import 'package:envify/envify.dart';
+import 'package:flutter_envify/flutter_envify.dart';
 import 'package:source_gen_test/annotations.dart';
 
 @ShouldThrow('`@Envify` can only be used on classes.')
